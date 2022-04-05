@@ -7,7 +7,7 @@ flashcards 3 + more code added.
 
 ### App Walk-though
 
-<img src="https://github.com/ACExpo/FlashCards4/blob/master/fcard4.gif" width=200><br>
+<img src="https://github.com/ACExpo/FlashCards4/blob/master/fcard.gif" width=200><br>
 
 
 ## Required
@@ -16,7 +16,7 @@ flashcards 3 + more code added.
 - [x] User sees flashcards animating in / out when the 'next' button is tapped
 
 ## Optional
-- [ ] Extra styling is added!
+- [x] Extra styling is added!
 - [ ] User sees a countdown timer for each question
 - [ ] User sees a 'card flip' animation when the card is tapped
 - [ ] User sees a celebration animation with confetti when they answer a question correctly
